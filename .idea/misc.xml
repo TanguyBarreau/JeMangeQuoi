@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_accueil.xml" value="0.115625" />
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_planning.xml" value="0.19096385542168676" />
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_planning_repas.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_recette.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_repas.xml" value="0.2234375" />
+        <entry key="..\:/Users/Tanguy/AndroidStudioProjects/JeMangeQuoi/app/src/main/res/layout/activity_trouver_recette.xml" value="0.2234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
